@@ -1,7 +1,9 @@
-# xmrig-cuda-binary
+# xmrig-cuda-linux-binary
 
-Built during experimenting around with cryptocurrency.
+> ⚠️ As a general rule of thumb, you should never use binaries off the internet!
 
-I can vouch on a personal capacity that this build is clean. Sharing it so that I'll save someone the hard work. 
+Built during experimenting around with cryptocurrency. Since the build takes a bit, sharing it so that I'll save someone the hard work.
 
-> As a general rule of thumb, you should never use binaries off the internet!
+This build is clean, but not everything on the Internet is. Stay safe  
+
+
